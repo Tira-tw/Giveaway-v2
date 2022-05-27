@@ -24,6 +24,7 @@
 
 > [WebTer](https://discord.gg/hbZXjAZjv5) | [Giveaway-Hosting](https://discord.gg/Giveaway-Hosting)
 
-# made by.
+# 版權
 
-> Milanio Development | Zedro#2742
+> 原作者 : Milanio Development | Zedro#2742
+> 代碼翻譯作者 : [Tira-tw](https://github.com/Tira-tw/)
