@@ -26,5 +26,5 @@
 
 # 版權
 
-> 原作者 : Milanio Development | Zedro#2742
+> 原作者 : Milanio Development | Zedro#2742 <br>
 > 代碼翻譯作者 : [Tira-tw](https://github.com/Tira-tw/)
