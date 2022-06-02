@@ -1,6 +1,6 @@
 ## 安裝
 
- **1.** 安裝 [node.js v16+](https://nodejs.org/) 或更高
+ **1.** 安裝 [node.js v16+](https://nodejs.org/) 
 
  **2.** 下載這個`檔案`並解壓 | 或 `git clone` 
 
