@@ -2,7 +2,7 @@
 
  **1.** 安裝 [node.js v16+](https://nodejs.org/) 
 
- **2.** 下載這個`檔案`並解壓 | 或 `git clone https://github.com/Tira-tw/Giveaway-v2/` 
+ **2.** 下載這個`檔案`並解壓 | 或 `git clone` 
 
  **3.**  **`npm install`** | **`npm install discord.js enmap`**
 
@@ -13,10 +13,10 @@
 ***
 
 ## Bot invite
-[D-Giveaway](https://discord.com/api/oauth2/authorize?client_id=960798367523438653&permissions=8&scope=bot%20applications.commands)
+[[Beta] D-Giveaway](https://discord.com/api/oauth2/authorize?client_id=891165330439802931&permissions=8&scope=bot%20applications.commands)
 
 ## Discord Server
-[WebTer](https://discord.gg/hbZXjAZjv5)
+[Super](https://discord.gg/3S5BgMTx47)
 
 ***
 
