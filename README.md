@@ -1,3 +1,7 @@
+## 目前停止使用
+
+
+<br><br><br>
 ## 安裝
 
  **1.** 安裝 [node.js v16+](https://nodejs.org/) 
